@@ -1,0 +1,180 @@
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.API.exe
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.API.deps.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.API.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.API.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Models.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Services.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Models.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Repository.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\bin\Debug\net6.0\WFHMS.Services.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\scopedcss\bundle\WFHMS.API.styles.css
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\refint\WFHMS.API.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\WFHMS.API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.API\obj\Debug\net6.0\ref\WFHMS.API.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\appsettings.Development.json
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\appsettings.json
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.API.exe
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.API.deps.json
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.API.runtimeconfig.json
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.API.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.API.pdb
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\AutoMapper.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Azure.Core.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Azure.Identity.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Azure.Security.KeyVault.Certificates.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Humanizer.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Identity.Web.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Models.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Services.dll
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Models.pdb
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Repository.pdb
+F:\Using Identity\WFHMS.API\bin\Debug\net6.0\WFHMS.Services.pdb
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.AssemblyReference.cache
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.AssemblyInfoInputs.cache
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.AssemblyInfo.cs
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.CoreCompileInputs.cache
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\staticwebassets.build.json
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\staticwebassets.development.json
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\scopedcss\bundle\WFHMS.API.styles.css
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.csproj.CopyComplete
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.dll
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\refint\WFHMS.API.dll
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.pdb
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\WFHMS.API.genruntimeconfig.cache
+F:\Using Identity\WFHMS.API\obj\Debug\net6.0\ref\WFHMS.API.dll

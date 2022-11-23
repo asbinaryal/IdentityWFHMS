@@ -1,0 +1,38 @@
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.deps.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Models.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Repository.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\bin\Debug\net6.0\WFHMS.Models.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\refint\WFHMS.Services.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Services\obj\Debug\net6.0\ref\WFHMS.Services.dll
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.deps.json
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.dll
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Services.pdb
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Models.dll
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Repository.pdb
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.Services\bin\Debug\net6.0\WFHMS.Models.pdb
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.AssemblyReference.cache
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.AssemblyInfoInputs.cache
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.AssemblyInfo.cs
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.CoreCompileInputs.cache
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.csproj.CopyComplete
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.dll
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\refint\WFHMS.Services.dll
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\WFHMS.Services.pdb
+F:\Using Identity\WFHMS.Services\obj\Debug\net6.0\ref\WFHMS.Services.dll

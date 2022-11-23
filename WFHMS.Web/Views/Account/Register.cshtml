@@ -1,0 +1,59 @@
+﻿@model WFHMS.Models.ViewModel.RegisterViewModel
+
+
+
+
+
+<h4>Register Here!</h4>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form method="post" asp-controller="Account" asp-action="Register">
+            @*  <input type="hidden" asp-for="DepartmentId" />*@
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ConfirmPassword" class="control-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DepartmentId" class="control-label"></label>
+                <select asp-for="DepartmentId" asp-items="Model.Departments" class="form-control">
+                    <option selected="selected" value="">Please select Department</option>
+                </select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DesignationId" class="control-label"></label>
+                <select asp-for="DesignationId" asp-items="Model.Designations" class="form-control">
+                    <option selected="selected" value="">Please select Designation</option>
+                </select>
+                <span asp-validation-for="DesignationId" class="text-danger">    </span>
+            </div>
+
+
+            <div class="form-group">
+                <button type="submit" value="submit" class="btn btn-primary">Register</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

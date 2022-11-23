@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.deps.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Models.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Models.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\refint\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Repository\obj\Debug\net6.0\ref\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.deps.json
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Repository.pdb
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Models.dll
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.Repository\bin\Debug\net6.0\WFHMS.Models.pdb
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.AssemblyReference.cache
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.AssemblyInfoInputs.cache
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.AssemblyInfo.cs
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.CoreCompileInputs.cache
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.csproj.CopyComplete
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\refint\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\WFHMS.Repository.pdb
+F:\Using Identity\WFHMS.Repository\obj\Debug\net6.0\ref\WFHMS.Repository.dll

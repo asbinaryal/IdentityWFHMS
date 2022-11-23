@@ -1,0 +1,566 @@
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.exe
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.deps.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.runtimeconfig.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\MessagePack.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Models.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Repository.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Services.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Repository.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Services.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\bin\Debug\net6.0\WFHMS.Models.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\scopedcss\bundle\WFHMS.Web.styles.css
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\scopedcss\projectbundle\WFHMS.Web.bundle.scp.css
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\refint\WFHMS.Web.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Web\obj\Debug\net6.0\ref\WFHMS.Web.dll
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.AssemblyReference.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.AssemblyInfoInputs.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.AssemblyInfo.cs
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.CoreCompileInputs.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.RazorAssemblyInfo.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.RazorAssemblyInfo.cs
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\appsettings.Development.json
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\appsettings.json
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.staticwebassets.runtime.json
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.exe
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.deps.json
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.runtimeconfig.json
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Web.pdb
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\AutoMapper.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Humanizer.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\MessagePack.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Common.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Models.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Repository.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Services.dll
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Repository.pdb
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Services.pdb
+F:\Using Identity\WFHMS.Web\bin\Debug\net6.0\WFHMS.Models.pdb
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\staticwebassets.build.json
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\staticwebassets.development.json
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout1.cshtml.rz.scp.css
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\scopedcss\bundle\WFHMS.Web.styles.css
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\scopedcss\projectbundle\WFHMS.Web.bundle.scp.css
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.csproj.CopyComplete
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.dll
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\refint\WFHMS.Web.dll
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.pdb
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\WFHMS.Web.genruntimeconfig.cache
+F:\Using Identity\WFHMS.Web\obj\Debug\net6.0\ref\WFHMS.Web.dll

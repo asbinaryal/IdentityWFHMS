@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.deps.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.runtimeconfig.json
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Models.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\bin\Debug\net6.0\WFHMS.Models.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\refint\WFHMS.Data.dll
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.pdb
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\newWorks\WFHApp\src\WFHMS.Data\obj\Debug\net6.0\ref\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.deps.json
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.runtimeconfig.json
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Models.dll
+F:\Using Identity\WFHMS.Data\bin\Debug\net6.0\WFHMS.Models.pdb
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.AssemblyReference.cache
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.AssemblyInfoInputs.cache
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.AssemblyInfo.cs
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.CoreCompileInputs.cache
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.csproj.CopyComplete
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\refint\WFHMS.Data.dll
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.pdb
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\WFHMS.Data.genruntimeconfig.cache
+F:\Using Identity\WFHMS.Data\obj\Debug\net6.0\ref\WFHMS.Data.dll

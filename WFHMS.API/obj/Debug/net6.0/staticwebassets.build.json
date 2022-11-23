@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CXHu5b8qiFZ00IFdNgzE3Y2a6rYCX0yewciPKbxaXQo=",
+  "Source": "WFHMS.API",
+  "BasePath": "_content/WFHMS.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
